@@ -6,7 +6,7 @@
 数据库：Mysql
 共分为学生端、教师端、管理员端三部分。
 管理员端：
-    ![image](西工大教务系统前端/VueSchoolManager-main/images/image.png)
+    ![image](西工大教务系统前端/VueSchoolManager-main/images/admin_1.png)
     ![image](西工大教务系统前端/VueSchoolManager-main/images/admin_2.png)
     ![image](西工大教务系统前端/VueSchoolManager-main/images/admin_3.png)
     ![image](西工大教务系统前端/VueSchoolManager-main/images/admin_4.png)
