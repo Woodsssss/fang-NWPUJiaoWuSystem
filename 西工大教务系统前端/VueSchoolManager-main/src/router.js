@@ -40,7 +40,7 @@ const router = new Router({
     // 重定向
     { path: '/', redirect: '/login' },
     { path: '/login', component: Login },
-    { path:'/register',component:Register},
+    { path:'/register',component: Register},
 
     // 管理员页面路由
     { path: '/admin', redirect: '/admin/home' },

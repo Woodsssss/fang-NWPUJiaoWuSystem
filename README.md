@@ -1,7 +1,7 @@
 # myProjects
 # 个人项目汇总
 ## 1.西工大教务系统
-前端：Vue3+ElementUI
+前端：Vue2+ElementUI
 
 后端：SpringBoot
 
