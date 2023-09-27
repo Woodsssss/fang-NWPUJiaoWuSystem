@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="main"><h1>欢迎登录西北工业大学教务系统！</h1></div>
+    <div class="main"><h1>欢迎登录西北工业大学教务系统管理员端！</h1></div>
   </div>
 </template>
 <script>

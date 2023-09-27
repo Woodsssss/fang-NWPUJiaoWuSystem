@@ -3,7 +3,7 @@
     <div class="register_box">
       <!-- 头像区域 -->
       <div class="avater_box">
-        <img src="../assets/logo.png" alt="" />
+        <img src="../assets/sysLogo.png" alt="" />
       </div>
       <!-- 登陆表单 -->
       <el-form

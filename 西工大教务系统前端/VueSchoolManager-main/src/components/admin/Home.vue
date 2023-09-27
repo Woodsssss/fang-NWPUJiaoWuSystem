@@ -4,7 +4,7 @@
     <el-header>
       <div>
         <img class="logo" src="../../assets/sysLogo.png" alt="" />
-        <span>西北工业大学教务管理系统</span>
+        <span>西北工业大学教务管理系统管理员端</span>
       </div>
       <el-button type="info" @click="logout">退出</el-button>
     </el-header>
